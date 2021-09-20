@@ -1,0 +1,17 @@
+room_id: A unique number identifying an Airbnb listing.
+host_id: A unique number identifying an Airbnb host.
+neighborhood: A subregion of the city or search area for which the survey is carried out. For some cities there is no neighbourhood information.
+"room_type: One of “Entire home/apt”, “Private room”, or “Shared room”."
+host_response_rate: The rate at which the particular host responds to the customers.
+"price: The price (in $US) for a night stay. In early surveys, there may be some values that were recorded by month."
+accomodates: The number of guests a listing can accommodate.
+bathrooms: The number of bathrooms a listing offers.
+bedrooms: The number of bedrooms a listing offers.
+beds: The number of beds a listing offers.
+"minimum_nights: The minimum stay for a visit, as posted by the host."
+"maximum nights: The maximum stay for a visit, as posted by the host."
+overall_satisfaction: The average rating (out of five) that the listing has received from those visitors who left a review.
+"number_of_reviews: The number of reviews that a listing has received. Airbnb has said that 70% of visits end up with a review, so the number of reviews can be used to estimate the number of visits. Note that such an estimate will not be reliable for an individual listing (especially as reviews occasionally vanish from the site), but over a city as a whole it should be a useful metric of traffic."
+reviews_per_month: The number of reviews that a listing has received per month.
+host_listings_count: The number of listings for a particular host.
+availability_365: The number of days for which a particular host is available in a year.
